@@ -5,3 +5,4 @@
 
 ## Development Process-Section
 - Scrum master hat die verantwortung das alles nach gewwissen commitet wir.
+- Alle mitwirkenden müssen sinnvolle commit-Massage schreiben.
