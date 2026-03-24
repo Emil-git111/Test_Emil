@@ -7,3 +7,7 @@
 - Scrum master hat die verantwortung das alles nach gewwissen commitet wir.
 - Alle mitwirkenden müssen sinnvolle commit-Massage schreiben.
 - Es gipt sogenante sprints. Das sind einfach zeitreume wo ein vorbestimmter teil des Projektes erledigt wird.
+- Erste umsetzung soll sein das, dass vom Kunden geforderte circumference Erfolgreich Funktioniert.
+
+## Usaye
+- Es werden alle drei Seiten vom Dreieck übergeben sodass die methode das berechnet.
